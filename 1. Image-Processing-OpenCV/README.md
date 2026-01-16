@@ -12,7 +12,7 @@ The experiment focuses on image representation, transformations, edge detection,
 | File                            | Description                                                  |
 | ------------------------------- | ------------------------------------------------------------ |
 | `Image_Processing_Basics.ipynb` | Colab notebook with complete image processing implementation |
-| `Experiment-02-Report.pdf`      | Report explaining concepts, steps, and results               |
+| `Experiment-01-Report.pdf`      | Report explaining concepts, steps, and results               |
 | `README.md`                     | This file with experiment overview                           |
 
 ---
