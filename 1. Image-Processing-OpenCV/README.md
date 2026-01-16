@@ -1,4 +1,4 @@
-# 🖼️ Experiment 02 – Image Processing using OpenCV
+# 🖼️ Experiment 01 – Image Processing using OpenCV
 
 ## 🎯 Project Objective
 
