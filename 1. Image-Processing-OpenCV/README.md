@@ -141,9 +141,6 @@ The results confirm that OpenCV is an efficient and powerful library for image p
 * 📘 **Google Colab Notebook**
   👉 [https://colab.research.google.com/drive/1UxzhL3QHl6wP0awdRAU3W7vNmmiYm6iY](https://colab.research.google.com/drive/1UxzhL3QHl6wP0awdRAU3W7vNmmiYm6iY)
 
-* 📗 **OpenCV Documentation**
-  👉 [https://docs.opencv.org/](https://docs.opencv.org/)
-
 ---
 
 ## 🙌 **ACKNOWLEDGEMENT**
