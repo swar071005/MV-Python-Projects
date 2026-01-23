@@ -107,7 +107,7 @@ The experiment includes:
 ## 🚀 **HOW TO RUN / VIEW**
 
 1. Open the notebook:
-   👉 `Image_Processing_Basics.ipynb`
+   👉 `MVPython-Exp1.ipynb`
 2. Run it in **Google Colab**
 3. Upload an image when prompted
 4. Execute all cells sequentially
@@ -152,12 +152,4 @@ This experiment was carried out as part of **Machine Vision / Computer Vision la
 
 ---
 
-### ⭐ If you want next:
-
-* ✅ **Main README for entire MV-Python-Projects repo**
-* ✅ **PPT slides (auto-generated)**
-* ✅ **Short lab-record version**
-* ✅ **Same template for all experiments**
-
-Just tell me 🚀
 
