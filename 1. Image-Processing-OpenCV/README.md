@@ -1,4 +1,4 @@
-# 🖼️ **IMAGE PROCESSING USING OPENCV (PYTHON)**
+# 🖼️ **Image Processing using OpenCV**
 
 ---
 
@@ -9,14 +9,15 @@ This project focuses on how digital images are represented, analyzed, enhanced, 
 
 ---
 
-## 📂 **FOLDER CONTENTS**
+## 📂 Folder Contents
 
-| 📄 File Name                         | 📌 Description                                    |
-| ------------------------------------ | -------------------------------------------------- |
-|       `MVPython-Exp1.ipynb`          | Complete Google Colab notebook with implementation |
-|      `image.png` *(optional)*        |               Sample input image                   |
-| `Experiment-Report.pdf` *(optional)* |           Detailed experiment report               |
-|           `README.md`                |        Project documentation (this file)           |
+|                 File Name                           |                                       Description                                                   |
+|-----------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| `Image_Manipulation_Enhancement_Histogram.ipynb`    | Complete Google Colab notebook with image manipulation, enhancement techniques, histogram plotting, |      |                                                     | and histogram equalization                                                                          |
+| `image.png` *(optional)*                            | Sample input image used for experimentation                                                         |
+| `Experiment-Report.pdf` *(optional)*                | Detailed experiment report including observations and conclusions                                   |
+| `README.md`                                         | Project documentation and execution instructions                                                    |
+
 
 ---
 
@@ -107,7 +108,7 @@ The experiment includes:
 ## 🚀 **HOW TO RUN / VIEW**
 
 1. Open the notebook:
-   👉 `MVPython-Exp1.ipynb`
+   👉 'Image_Manipulation_Enhancement_Histogram.ipynb'
 2. Run it in **Google Colab**
 3. Upload an image when prompted
 4. Execute all cells sequentially
