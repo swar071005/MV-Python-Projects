@@ -147,8 +147,8 @@ Planned and possible future experiments include:
 
 ## 📌 **REFERENCES**
 
-* 📘 OpenCV Documentation: [https://docs.opencv.org/](https://docs.opencv.org/)
-* 📗 Google Colab: [https://colab.research.google.com/](https://colab.research.google.com/)
+* 📘 OpenCV Documentation:👉 [https://docs.opencv.org/](https://docs.opencv.org/)
+* 📗 Google Colab:👉[https://colab.research.google.com/](https://colab.research.google.com/)
 
 ---
 
