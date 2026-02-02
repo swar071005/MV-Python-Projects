@@ -44,9 +44,9 @@ MV-Python-Projects/
 │   ├── Image_Processing_Basics.ipynb
 │   ├── README.md
 │
-├── 2. Future-Experiments/
-│   ├── README.md
-│   └── Notebook.ipynb
+├── 2. Image-Manipulation-Enhancement-Histogram/
+│   ├── Image-Manipulation-Enhancement-Histogram.ipynb
+│   └── README.md
 │
 └── README.md  ← Main repository documentation
 ```
